@@ -1,13 +1,13 @@
-f4c475d63e4878886fc427280e817aed *DESCRIPTION
+6d1806b1da80371ccf2f54ce2e4453c9 *DESCRIPTION
 5c6c8a75896ba747b4ccc9aec6ce46f2 *NAMESPACE
 80868925b7e57bfa28c6394e4721a305 *R/AnomalyScore-package.R
 0a3bc4169dc91592bf3447ca5e9705ae *R/Band_Depth_Distance.R
 98c7a1d523e7d60f521d58822ded2eca *R/Distance_matrix_knn_algorithm.R
 1baeaf738da74b8da68d59b9c6ebd726 *R/GrangerCausalityIndeces.R
-af16ef14e09e627408c7937492cbdd3a *R/PDCmatrix.R
+639b96066d858a5c47e93866a4f520f2 *R/PDCmatrix.R
 521a8bbc31f7dd1807fe1bef4697c0a7 *R/Pattern_recognition_distances.R
-3c04bc4965e2e93bd8a5fa61ea20f401 *README.md
-20c8d3f97d93e2e318a22508275b5a02 *build/partial.rdb
+0985e983daea8005a549b5570c662464 *README.md
+4454e632feb75ce4f508807d50b3b12f *build/partial.rdb
 504a69366d51c98b76137975f058d77a *man/AnomalyScore-package.Rd
 61c656ac135198f527a96cde9fdab94c *man/Anomalyscoresframe.Rd
 eb3989b81b81c0d2c791a4b6516504cf *man/Cort.Rd
